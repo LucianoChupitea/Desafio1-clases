@@ -1,0 +1,15 @@
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\obj\Debug\net6.0\DesafioEntregable1-Clases.csproj.AssemblyReference.cache
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\obj\Debug\net6.0\DesafioEntregable1-Clases.GeneratedMSBuildEditorConfig.editorconfig
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\obj\Debug\net6.0\DesafioEntregable1-Clases.AssemblyInfoInputs.cache
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\obj\Debug\net6.0\DesafioEntregable1-Clases.AssemblyInfo.cs
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\obj\Debug\net6.0\DesafioEntregable1-Clases.csproj.CoreCompileInputs.cache
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\bin\Debug\net6.0\DesafioEntregable1-Clases.exe
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\bin\Debug\net6.0\DesafioEntregable1-Clases.deps.json
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\bin\Debug\net6.0\DesafioEntregable1-Clases.runtimeconfig.json
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\bin\Debug\net6.0\DesafioEntregable1-Clases.dll
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\bin\Debug\net6.0\DesafioEntregable1-Clases.pdb
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\obj\Debug\net6.0\DesafioEntregable1-Clases.dll
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\obj\Debug\net6.0\refint\DesafioEntregable1-Clases.dll
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\obj\Debug\net6.0\DesafioEntregable1-Clases.pdb
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\obj\Debug\net6.0\DesafioEntregable1-Clases.genruntimeconfig.cache
+E:\lucho\pdfs23\Nueva carpeta\DesafioEntregable1-Clases\DesafioEntregable1-Clases\obj\Debug\net6.0\ref\DesafioEntregable1-Clases.dll
